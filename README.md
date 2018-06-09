@@ -14,7 +14,7 @@ Where dimensions aren't valid CO sizes it will suggest what you should change th
 
 CO Check is incredibly easy to use, first follow the download & install instructions below then follow these steps to use the tool.
 
-![CO Check Example](https://raw.githubusercontent.com/StudioLE/DynamoScripts/Examples/Screenshots/CO Check Example 01.gif)
+![CO Check Example](https://raw.githubusercontent.com/StudioLE/DynamoScripts/master/Examples/Screenshots/CO%20Check%20Example%2001.gif)
 
 1) Open `Dynamo Player` within Revit and press the `Run script` icon next to CO Check.
 
@@ -28,7 +28,7 @@ CO Check is incredibly easy to use, first follow the download & install instruct
 
 6) Running the script a couple more times will enable you to co-ordinate the changes needed to fix the CO sizing like so:
 
-![CO Check Example](https://raw.githubusercontent.com/StudioLE/DynamoScripts/Examples/Screenshots/CO Check Example 02.gif)
+![CO Check Example](https://raw.githubusercontent.com/StudioLE/DynamoScripts/master/Examples/Screenshots/CO%20Check%20Example%2002.gif)
 
 ## Download & Install
 
