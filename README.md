@@ -30,15 +30,21 @@ CO Check is incredibly easy to use, first follow the download & install instruct
 
 ![CO Check Example](https://raw.githubusercontent.com/StudioLE/DynamoScripts/master/Examples/Screenshots/CO%20Check%20Example%2002.gif)
 
-## Download & Install
+7) If you wish to clear the CO Status from below the dimension just re-run the script but select the `Empty` option instead of `CO Status` when prompted to `Set text below dimension to`. 
 
-1) Either download the scripts individually or download all the scripts and examples as a [zip archive](https://github.com/StudioLE/DynamoScripts/archive/master.zip).
+### Download & Install
 
-2) Then extract the zip or copy the individual script to a suitable directory on your computer.
+1) The scripts require a couple of Dynamo packages (`Rhythm` and `Data-Shapes`) to function, these are easily installed from within Dynamo, so open up Revit, load an existing file or a new document then go to the `Manage` tab where you'll find the `Dynamo` under `Visual Programming`. Once it has loaded click `Packages` on the menu bar then `Search for a Package..`. Give it a few seconds to synchronise with the server then search for `Rhythm` and press the large download arrow to install the latest version.
 
-3) Within Revit go to the `Manage` tab where you'll find the `Dynamo Player` under `Visual Programming`. In the Dynamo Player click the `Browse to folder` icon and locate the directory you've saved the scripts to.
+2) Once that package is installed search for `Data-Shapes` and install that. You're now free to close Dynamo.
 
-4) The scripts should now be loaded and ready to use. Just hit the `Run script` icon to use them.
+3) Next, either download the dynamo script you need individually or download all the scripts and examples as a [zip archive](https://github.com/StudioLE/DynamoScripts/archive/master.zip).
+
+4) Then extract the zip or copy the individual script to a suitable directory on your computer.
+
+5) Within Revit go to the `Manage` tab where you'll find the `Dynamo Player` under `Visual Programming`. In the Dynamo Player click the `Browse to folder` icon and locate the directory you've saved the scripts to.
+
+6) The scripts should now be loaded and ready to use. Just hit the `Run script` icon to use them.
 
 ## Contributing
 
